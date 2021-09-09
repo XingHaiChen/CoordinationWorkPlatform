@@ -1,2 +1,2 @@
 # CoordinationWorkPlatform
-JavaWeb,Vue,JavaSpring,Mybatis,Mysql
+JavaWeb,Vue,JavaSpring,Mybatis,Mysql.
